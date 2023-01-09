@@ -601,7 +601,7 @@ paths:
              $ref: '#/components/schemas/CertificateParameters'
       
       responses:
-        200:
+        201:
           description: Zertifikat wird zurückgegeben.
           content:
            application/json:
